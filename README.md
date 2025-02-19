@@ -1,4 +1,4 @@
-# NFT Marketplace Smart Contract
+# Smart Contract
 
 This project demonstrates a basic **Hardhat** use case for an **NFT Marketplace** smart contract. It includes a sample contract, a test for that contract, and a deployment script.
 
